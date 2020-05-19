@@ -1,0 +1,27 @@
+navbar:
+  title: "Sang Jung Kim"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: about.html
+    - text: "Teaching"
+      href: teaching.html
+      
+  
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/SangJungKim2
+    - icon: fa-github fa-lg 
+      href: https://github.com/SangJungKim
+    - icon: fa-file-o fa-lg
+      text: CV
+      href: CV.pdf
+  
+
+output:
+  html_document:
+    theme: paper
+    css: 'mycss.css'

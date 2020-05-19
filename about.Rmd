@@ -1,0 +1,27 @@
+---
+title: <font face="Georgia"><font size = "5"><font color = "0060B3"> <b> | Research </b> </font>
+---
+
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 16px'> <b> Publications: </b>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Lukito, J., Suk, J., Zhang, Y., Doreshenko, L., <b> Kim, S. J.</b>, Su, M-H., Xia, Y., & Wells, C.(2019). The wolves in sheep’s clothing: How Russia’s Internet Research Agency tweets appeared in U.S. News as vox populi. International Journal of Press/Politics, 00(0), 1-21. </font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Xia, Y., Lukito, J., Zhang, Y., Wells, C., <b> Kim, S. J.</b>, & Tong, C. (2019). Disinformation, performed: Self-presentation of a Russian IRA account on Twitter. Information, Communication and Society, 22(11), 1646–1664. </font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Zhang, Y., Shah., D., Foley., J., Abhisheck., A., Pevehouse., J., Lukito., J., Suk., J., <b> Kim., S. J.,</b> Sun, Z., & Garlough., C. (2019). Whose lives matter? Mass shootings and social media discourses of sympathy and policy, 2012–2014. Journal of Computer Mediated Communication, 24(4), 182–202 </font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 16px'> <b> Selected Conferences: </b>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> <b> Kim, S. J.</b>, Tao, R., & Li, J. (2019). Does commenting on Facebook lead to civic deliberation? The effect of commenting on discussion diversity and discussion
+cessation. Presented at the 2019 Annual Conference of the International
+Communication Association (ICA).</font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Xiaomei, S.,<b> Kim, S. J.</b>, & Liao, X. (2019). Willingness to self-censor and political talk on chat apps: A comparative analysis of Japan, South Korea, and China. Presented at the 2019 Annual Conference of the International Communication Association (ICA).</font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Suk. J., Lukito, J., Su, M-H.,  <b> Kim, S. J.</b>, Sun, Z., Sarma, P., & Tong, C. (2019). Do I sound American? Predicting disinformation sharing of Russian IRA tweets from a linguistic perspective. Presented at the 2019 Annual Conference of the International Communication Association (ICA). </font> 
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Lukito, J., Suk, J., Zhang, Y., Doreshenko, L., <b> Kim, S. J.</b>, Su, M-H., Xia, Y., & Wells, C. (2018). Zero Day Twitter: How Russian propaganda infiltrated the U.S. hybrid
+media system. Presented at the Annual Association for Education in Journalism and
+Mass Communication (AEJMC). [Top Paper, Political Communication Interest
+Group].</font>

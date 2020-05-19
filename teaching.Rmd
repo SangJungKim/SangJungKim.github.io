@@ -1,0 +1,11 @@
+---
+title: <font face="Georgia"><font size = "5"><font color = "0060B3"> <b> | Teaching </b> </font>
+---
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 16px'> <b> Teaching Assistant: </b>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Course: J566–Communication and Public Opinion: Spring 2020 </font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Course: J564–Media and Consumer: Fall 2019 </font>
+
+<font face="Georgia"><font color = "#000000"> <span style='font-size: 14px'> Course: J201–Introduction to Mass Communication: Fall 2017 - Spring 2019 </font>

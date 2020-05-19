@@ -1,0 +1,16 @@
+---
+title: <font face="Georgia"><font size = "5"> <b> Sang | Social Scientist </b> </font>
+---
+
+
+<img src = "C:/Users/Sang Jung Kim/Documents/Website/SangJungKim.github.io/Sang.jpg" style = "width:20%" align = "leftleft">
+
+<font face="Helvetica"><font color = "#404040"> <span style='font-size: 14px'>Welcome! I am a doctoral student in the School of Journalism and Mass Communication at the University of Wisconsin-Madison. I study the interaction between technology, politics, and social identity, with particular attention to the mediating role of social media platforms and the spread of information to the public. My current research centers on citizens' susceptibility to misleading information on social media platforms. I explore the identities of message creators and message receivers on social media platforms—including racial identity, gender identity, and political identity—and utilize both experimental methods and computational approaches to understand how consumers and creators of such content introduce, and are impacted by, biases.</font></span>
+
+<font face="Helvetica"><font color = "#404040"> <span style='font-size: 14px'> Methodologically, I apply machine learning techniques to classify and analyze images to answer my research questions. For computational analysis, I primarily use R and Python. I also enjoy writing CSS and HTML codes, and I am familiar with SQL.</font> 
+
+<font face="Helvetica"><font color = "#404040"> <span style='font-size: 14px'> Before beginning my doctoral program, I received an MA in Communication and a BA in Political Science & Diplomacy and Communication from Yonsei University. My Master's thesis investigated the effects of partisan identity on the moral evaluation of others, with a specific focus on news media.</font>
+
+<font face="Helvetica"><font color = "#404040"> <span style='font-size: 14px'> Apart from research, I enjoy composing music with my adorable mini-digital piano and reading books. I also enjoy listening to the ideas of other researchers from a whole spectrum of fields, and cross-pollinating disciplines to inform my own work.</font>
+
+<font face="Helvetica"><font color = "#404040"> <span style='font-size: 14px'> *This website was created by using Emily C. Zabor’s tutorial: https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html* </font>
